@@ -5,6 +5,8 @@ The application has been used to capture the ground truth data presented here - 
 
 The implementation comes with a 3D reconstructed mesh of a stone bird bath for testing. For testing with other objects, just import the them in the Unity project and in the Manager object change the **Target** object in both scripts to the the appropriate object. 
 
+![Gameplay Gif](GameImages/meshAnnotation.gif)
+
 # Controls
 The prototype has a number of functionalities accessable using different keys:
 
